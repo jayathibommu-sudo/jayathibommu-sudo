@@ -34,3 +34,13 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
 - 📧 Email: your-email@example.com
+
+- ## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=jayathibommu-sudo&label=Profile%20Views&color=0e75b6&style=flat)
+
+## 📈 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayathibommu-sudo&theme=tokyonight)
+
+
