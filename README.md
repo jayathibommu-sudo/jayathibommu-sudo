@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayathibommu-sudo/jayathibommu-sudo/main/Screenshot%202026-07-20%20232959.png" width="100%" alt="Welcome to my GitHub">
+  <img src="https://raw.githubusercontent.com/jayathibommu-sudo/jayathibommu-sudo/main/Screenshot%202026-07-20%20232959.png" width="500%" alt="Welcome to my GitHub">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jaya;AI+%26+ML+Enthusiast;B.Tech+CSE+Student;Researching+LLMs)](https://git.io/typing-svg)
+[![Typing SVG]
+(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jaya;AI+%26+ML+Enthusiast;B.Tech+CSE+Student;Researching+LLMs)](https://git.io/typing-svg)
 
 # Hi there, I'm Jaya 👋
 
